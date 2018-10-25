@@ -1,4 +1,5 @@
 # Taskforce
 開発言語の学習で作成したサンプル
 
-ソースを更新
+作成したrailsのソースをアップしました  
+（Rails new blog）
